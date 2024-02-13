@@ -20,7 +20,7 @@ body {
     height: 200px;
 
     /* Ajoutez l'animation */
-    animation: rotate 4s linear infinite;
+    animation: rotate 1s linear infinite;
 }
 
 @keyframes rotate {
